@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SantiagoPalacios
-- 👀 I’m interested in hacking and cibersecurity
+- 👀 I’m interested in hacking and cybersecurity
 - 🌱 I’m currently learning cibersecurity and ethical hacking
 - 📫 How to reach me: you can contact me directly on my linkedin https://www.linkedin.com/in/santiago-palacios-b46694224/
 
