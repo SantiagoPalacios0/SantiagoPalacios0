@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Password gen with python](https://github.com/SantiagoPalacios0/passwdgen)
+- 🔭 I’m currently working on [passwdgen with python](https://github.com/SantiagoPalacios0/passwdgen)
 
 - 🌱 I’m currently learning **Python, Kotlin, and cibersecurity**
 
